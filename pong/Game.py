@@ -1,5 +1,6 @@
 import pygame
 import Objects
+# time taken 1.3 hours
 
 
 def redrawWindow(win, ball, paddle, paddle1):
